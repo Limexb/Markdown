@@ -207,3 +207,4 @@ Markdown的使用者：
 
 
 关于其它扩展语法可参见具体工具的使用说明。
+ /etc/gesture/xx-touchpad-xx.conf 
